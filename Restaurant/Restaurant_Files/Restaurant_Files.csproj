@@ -46,6 +46,7 @@
     <Folder Include="html\Assets\JS\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="html\about.html" />
     <Content Include="html\AdminApps_html\allusers.html" />
     <Content Include="html\AdminApps_html\Assets\CSS\admin.css" />
     <Content Include="html\AdminApps_html\Assets\CSS\login.css" />
@@ -58,8 +59,10 @@
     <Content Include="html\AdminApps_html\model.html" />
     <Content Include="html\AdminApps_html\profile.html" />
     <Content Include="html\Assets\CSS\style.css" />
+    <Content Include="html\Assets\IMG\alex-munsell-18753-unsplash.jpg" />
     <Content Include="html\Assets\IMG\elli-o-65548-unsplash.jpg" />
     <Content Include="html\Assets\IMG\michael-browning-14090-unsplash.jpg" />
+    <Content Include="html\Assets\IMG\scott-madore-122358-unsplash.jpg" />
     <Content Include="html\index.html" />
     <Content Include="sql\ErrorLog.sql" />
     <Content Include="sql\User.sql" />
