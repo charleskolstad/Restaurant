@@ -5,6 +5,8 @@ angular.module("Admin", ["ngRoute"]).config(function ($routeProvider) {
         templateUrl: "profile.html"
     }).when("/allModels", {
         templateUrl: "model.html"
+    }).when("/allGallery", {
+        templateUrl: "restaurantgal.html"
     }).otherwise({
 
     });

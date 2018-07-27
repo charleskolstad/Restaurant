@@ -52,12 +52,14 @@
     <Content Include="html\AdminApps_html\Assets\CSS\login.css" />
     <Content Include="html\AdminApps_html\Assets\IMG\_MG_mobile.jpg" />
     <Content Include="html\AdminApps_html\Assets\JS\angular\AdminModule.js" />
+    <Content Include="html\AdminApps_html\Assets\JS\angular\GalleryCtrl.js" />
     <Content Include="html\AdminApps_html\Assets\JS\angular\ModelCtrl.js" />
     <Content Include="html\AdminApps_html\Assets\JS\angular\UsersCtrl.js" />
     <Content Include="html\AdminApps_html\Assets\JS\SideNav.js" />
     <Content Include="html\AdminApps_html\index.html" />
     <Content Include="html\AdminApps_html\model.html" />
     <Content Include="html\AdminApps_html\profile.html" />
+    <Content Include="html\AdminApps_html\restaurantgal.html" />
     <Content Include="html\Assets\CSS\style.css" />
     <Content Include="html\Assets\IMG\alex-munsell-18753-unsplash.jpg" />
     <Content Include="html\Assets\IMG\elli-o-65548-unsplash.jpg" />
